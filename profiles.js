@@ -1,2 +1,0 @@
-const userProfiles = []
-const userProfile = {}
